@@ -1,18 +1,11 @@
-Bruno Ricardo de Sá Ferreira
-2201529 
-Linguagens e Computação
-Lincenciatura - Engenharia informática
+# Languages and Computation - Computer Engineering Bachelor's Project
 
-Após a resolução do trabalho proposto, temos os códigos divididos em 7 ficheiros. 
+**Author:** Bruno Ricardo de Sá Ferreira  
+**Student Number:** 2201529  
 
-7 Ficheiros java, com as respetivas classes, outro com o código Ocaml, criado sob a base oferecida pelo professor. 
+This project consists of codes divided into 7 Java files and one OCaml file. 
 
-Para termos os melhores resultados deste projeto começamos por compilar o ficheiro Ocaml da seguinte forma:   ocamlc -o main str.cma main.ml  ./main  
+## Compilation and Execution
 
-Estando o ambiente devidamente configurado. 
+To compile the OCaml file, use the following command: 
 
-Já o código Java também é bem simples e compilamos e executamos da seguinte forma:   javac Main.java  
-
-java Main
-
-Convém termos todos os documentos no mesmo diretório. 
